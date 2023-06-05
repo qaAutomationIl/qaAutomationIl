@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Tomer
+- 👀 I’m interested in Automation testing
+- 🌱 I’m currently learning playwright and cypress
